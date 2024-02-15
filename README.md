@@ -1,14 +1,6 @@
 # Face-Recognition-Based-Student-Attendance-System-in-Python-using-OpenCV-with-Tkinter-GUI-
 
 
-### Team Kyzen
-* [Amish Thapa](https://github.com/amish-git)
-* [Keshav Raj Poudel](https://github.com/Keshav-46)
-* [Khom Raj Thapa Magar](https://khomz.github.io/)
-
-
-[[Click me!]](https://khomz.github.io/)
-
 ### Abstract
 Face recognition-based attendance system is a process of recognizing the faces of the students while taking attendance by using face bio-metrics based on high – definition monitor video and other information technology. In this face recognition project, a computer system will be able to find and recognize human faces quickly and precisely in images or videos that are being captured through a webcam / a surveillance camera. 
 In our face recognition project, a computer system will be able to find and recognize human faces quickly and precisely in images or videos that are being captured through a webcam / surveillance camera. 
@@ -36,7 +28,6 @@ The biggest issue in former attendance management system is the accuracy of the 
 * Train Photo Samples
 * Take Attendance with Face Detection
 * Attendance Report (.csv file & Sqlite database)
-* Developer Page(Team Kyzen)
 * Help Desk
 * Exit System
 
@@ -51,8 +42,6 @@ The biggest issue in former attendance management system is the accuracy of the 
 
 ### Training
 ![Train](https://github.com/KhomZ/Face-Recognition-Based-Student-Attendance-System-in-Python-using-OpenCV-with-Tkinter-GUI-/blob/main/ProjectImages/Work%20Progress/trainingImagesSNAp.png?raw=true)
-
-### Recoginition
 
 
 ### Built With
